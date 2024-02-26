@@ -1,4 +1,4 @@
-echo "# mantecada" >> README.md
+echo "#mantecada" >> README.md
 git init
 git add README.md
 git commit -m "Primer commit"
